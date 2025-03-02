@@ -1,4 +1,4 @@
-# ath-money
+# ath-money !!!DEPRECATED!!! - added to rsg-core
 
 #### Redm resource enabling money types to have its item representation (default `cash` and `bloodmoney`)
 
